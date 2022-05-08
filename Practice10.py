@@ -57,3 +57,4 @@ class Suit(Clothes):
 # suit = Suit(170)
 # print(coat.calculate)
 # print(suit.calculate)
+
